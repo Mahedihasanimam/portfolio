@@ -174,7 +174,7 @@ img{
 }
 .side img{
    height: 100%; 
-   background:url(/images/circle_logo-removebg-preview.png);
+   background:url(../images/cirle.png);
    background-repeat: no-repeat;
    background-position:center;
    /* background-size: cover; */
